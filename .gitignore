@@ -1,0 +1,18 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+
+# Secrets
+secret_api_key
+.env
+
+# Jupyter temp
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
